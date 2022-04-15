@@ -10,11 +10,9 @@ $ apt upgrade
 
 $ apt install git -y
 
-$ git clone 
-https://github.com/Black-Boy26/Brute-force
+$ git clone https://github.com/Black-Boy26/Brute-force
 
 $ cd attack
-
 
 # Now wait for installation of the tool, If your setup is completed then you can run it by this
 
